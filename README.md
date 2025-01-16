@@ -1,4 +1,4 @@
-# SNS accumulator ring
+# SNS linear accelerator
 
 This repository contains the PyORBIT model of the Spallation Neutron Source (SNS) linear accelerator.
 
