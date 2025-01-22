@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "sns-linac"
+name = "sns-linac-model"
 version = "0.0.1"
-description = "PyORBIT SNS accelerator models"
+description = "PyORBIT SNS linac model"
 readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
